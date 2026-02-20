@@ -25,9 +25,11 @@ You don't need to install anything special besides Python itself.
 * Don't hit the walls or yourself (standard rules).
 * The game gets slightly faster every time you eat to keep things challenging.
 
-## 📝 To-Do List
-- [ ] Add a high-score system that saves to a file.
-- [ ] Add different color themes.
-- [ ] Maybe add some sound effects if I can find a lightweight library.
+## 📷 Screenshots
+<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/135a901b-b822-4b3a-9915-f97650a3676f" />
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/ce17bdb9-c478-4437-bbc2-2561ff86bee8" />
+
+
+
 
 Feel free to fork it or suggest some changes! # Lumina-snake
