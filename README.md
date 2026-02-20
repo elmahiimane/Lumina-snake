@@ -1,4 +1,4 @@
-# 🐍 Neon Snake v1.0
+# 🐍 Lumina Snake v1.0
 
 This is a simple Snake game I built using Python's Turtle module. I wanted to see if I could make the classic game look a bit more modern, so I went with a dark neon theme and some smooth "breathing" animations for the food.
 
